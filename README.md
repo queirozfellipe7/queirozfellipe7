@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/queirozfellipe7">
   <img align = "left"  src="https://github-readme-stats.vercel.app/api?username=queirozfellipe7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align = "right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozfellipe7&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img align = "left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozfellipe7&layout=compact&langs_count=7&theme=great-gatsby"/>
    <img src="https://komarev.com/ghpvc/?username=queirozfellipe7&color=green" alt="queirozfellipe7" />
 </div>
 <div style="display: inline_block"><br>
