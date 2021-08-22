@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/queirozfellipe7">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=queirozfellipe7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="165"src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozfellipe7&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="180" width="500"src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozfellipe7&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  
 </div>
   
   ##
